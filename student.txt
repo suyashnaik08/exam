@@ -1,0 +1,4 @@
+student 
+1 sam
+2 ram
+3 sham
